@@ -1,0 +1,6 @@
+@Revenda.API_HostAddress = http://localhost:5223
+
+GET {{Revenda.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
